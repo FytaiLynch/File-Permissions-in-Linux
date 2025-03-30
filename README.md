@@ -11,5 +11,6 @@ In this project, I was able to check file and directory details and change file/
 I began by navigating to the projects directory to review its contents and permissions. Within the directory, I identified four project folders, each containing text files, along with an additional subdirectory. I then examined the assigned permissions for each project and found that **Project_k** has read and write permissions granted to the User, Group, and Other users.
 
 
-![Manage Authorization task 1 2](https://github.com/user-attachments/assets/ee6f5c52-81b7-4b15-8e2a-f6a99a3bb32a)
+![Manage Authorization task 1 2(copy)](https://github.com/user-attachments/assets/cdecf5e8-1479-4bed-8f67-2780e53bbb9e)
+
 In this screenshot, you can see that there was a hidden file within the **Projects** directory named **.project_x.txt**
