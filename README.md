@@ -12,3 +12,4 @@ I began by navigating to the projects directory to review its contents and permi
 
 
 ![Manage Authorization task 1 2](https://github.com/user-attachments/assets/ee6f5c52-81b7-4b15-8e2a-f6a99a3bb32a)
+In this screenshot, you can see that there was a hidden file within the **Projects** directory named **.project_x.txt**
