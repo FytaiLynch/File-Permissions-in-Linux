@@ -17,6 +17,6 @@ In this screenshot, you can see that there was a hidden file within the **Projec
 
 
 <h2>Task 2: Change file permissions</h2>
-Here, we are to change the permissions of **project_k.txt** to remove its **write** permission so that the **Other** type doesn't have write permissions. While we are changing permissions, I also changed the permissions of **project_m.txt** so that it's no longer readable or writable by the **Group** or **Other** types.
+In this step, the objective is to modify the permissions of **project_k.txt** by revoking its **write** permission for the **Other** user category. Additionally, while adjusting permissions, I also updated the permissions for **project_m.txt**, ensuring that it is no longer readable or writable by the **Group** and **Other** user categories.
 
 ![Manage Authorization task 2(copy)](https://github.com/user-attachments/assets/12e67a32-8781-4acd-b39c-08dc5f4e167a)
